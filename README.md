@@ -1,7 +1,9 @@
 # fork-it
-Various recipes we use in our house
-
 Commonly used terms in these recipes:
+
+Default Ingredients:
+- oil = sunflower oil
+- butter = unsalted grass-fed butter. Non-grassfed butter tends to be too firm for some applications. And we always add our own salt
 
 We have an induction stovetop with numbers 1-9
 - low heat = 2
