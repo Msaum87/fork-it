@@ -1,2 +1,15 @@
 # fork-it
-Just a collection of recipes I've been making, gathering, and improvising over the past decade or so. Time to stop trying to track various scraps of paper and sticky notes in a drawer in my kitchen.
+Various recipes we use in our house
+
+Commonly used terms in these recipes:
+We have an induction stovetop with numbers 1-9
+low heat = 3
+medium heat = 4
+medium-high heat = 6
+high heat = 8
+
+In terms of ingredient preparation:
+minced = nothing bigger than 2mm (usually garlic prep)
+diced = nothing biger than 10mm (onion pieces in a soup)
+chopped = nothing bigger than 2cm (carrot chunks you could eat with a fork)
+
